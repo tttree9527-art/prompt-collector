@@ -1,0 +1,9 @@
+{
+  "name": "auto-job-applier",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "nodemailer": "^9.0.1",
+    "pdf-parse": "^1.1.1"
+  }
+}
